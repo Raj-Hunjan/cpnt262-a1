@@ -24,4 +24,4 @@
 - [Scary pumpkin head](https://images.pexels.com/photos/3054218/pexels-photo-3054218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) by [David Gomes](https://www.pexels.com/@davidgomes)
 - [Skulls](https://images.unsplash.com/photo-1540721113886-cefdcee899b7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2670&q=80) by [Makarios Tang](https://unsplash.com/@makariostang)
 - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg) by Web Dev Simplified
-- [Hamburger menu with animation](https://www.youtube.com/watch?v=BN6fH1nRDxA&t=1146s)
+- [Hamburger menu with animation](https://www.youtube.com/watch?v=BN6fH1nRDxA&t=1146s) by Code and Create
