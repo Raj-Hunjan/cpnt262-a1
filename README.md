@@ -2,8 +2,8 @@
 ---
 
 ## Links:
-- https://github.com/Raj-Hunjan/cpnt262-a1
-- Couldn't get github pages to work so here's my codepen: https://codepen.io/rajhunjann/full/porjVJp
+- Repo: https://github.com/Raj-Hunjan/cpnt262-a1
+- Page (codepen): Couldn't get github pages to work so here's my codepen: https://codepen.io/rajhunjann/full/porjVJp
 
 ## Code review:
 - I was having trouble getting the animation for the hamburger icon to work. I was trying to figure it out for 20 minutes then I found out that I don't need a dot before "change" in javascript where the class list toggle is.
