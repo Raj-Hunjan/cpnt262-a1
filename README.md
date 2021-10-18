@@ -8,8 +8,8 @@
 ## Code review:
 - I was having trouble getting the animation for the hamburger icon to work. I was trying to figure it out for 20 minutes then I found out that I don't need a dot before "change" in javascript where the class list toggle is.
 
-## How to get the hamburger icon to appear
-- Just shrink the window to a phone size. Then it will appear. 
+## Don't see the hamburger icon?
+- Try shrinking the window!
 
 ## Attributions:
 - Licenses are by [Unsplash](https://unsplash.com/license) and [Pexels](https://www.pexels.com/license/)
